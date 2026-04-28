@@ -1,4 +1,4 @@
- Learning & Building.
+ Learning and building.
 
 <!--
 **arlindademaj/arlindademaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
